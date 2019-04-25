@@ -1,0 +1,26 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "freinds.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrevPea97/Friend-FInder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrevPea97/Friend-FInder/issues"
+  },
+  "homepage": "https://github.com/TrevPea97/Friend-FInder#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "body-parse": "^0.1.0",
+    "express": "^4.16.4",
+    "parser": "^0.1.4",
+    "path": "^0.12.7"
+  }
+}
